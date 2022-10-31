@@ -44,9 +44,9 @@
 
   **Note**: 
         Some changes has been done in the source code provided in [playlist-react](https://github.com/IITBombayWeb/playlist-react), the changed files has 
-        been put in separate folder in this repository, named - [playlist-react-changed-files](https://github.com/IITBombayWeb/playlist-django/tree/main
-        /playlist-react-changed-files). Please copy the codes from the files and paste it to the corresponding same file after cloning the repository from 
-        [playlist-react](https://github.com/IITBombayWeb/playlist-react), it is important, then only backend will run properly with frontend.
+        been put in separate folder in this repository, named - playlist-react-changed-files. Please copy the codes from the files and paste it to the 
+        corresponding same file after cloning the repository from [playlist-react](https://github.com/IITBombayWeb/playlist-react), it is important, then 
+        only backend will run properly with frontend.
         
 **Steps to run the frontend:**
 
