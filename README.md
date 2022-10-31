@@ -30,7 +30,7 @@
    
 3. Clone the repo in the same directory
 
-Link to the site: [Import a Django project from git](https://stackoverflow.com/questions/12400077/how-to-import-a-django-app-from-git-into-a-project)
+>  Link to the site: [Import a Django project from git](https://stackoverflow.com/questions/12400077/how-to-import-a-django-app-from-git-into-a-project)
 
 4. Here, django project name - playlist, django app name - plydjango
 
