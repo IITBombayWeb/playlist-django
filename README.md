@@ -20,7 +20,7 @@
    source ./venv/bin/activate
    ```
    
-2. Install all the packages essential for this project:
+4. Install all the packages essential for this project:
    ```
    pip install django
    pip install djangorestframework 
@@ -28,13 +28,13 @@
    pip install django-rest-swagger
    ```
    
-3. Clone the repo in the same directory
+5. Clone the repo in the same directory
 
 >  Link to the site: [Import a Django project from git](https://stackoverflow.com/questions/12400077/how-to-import-a-django-app-from-git-into-a-project)
 
-4. Here, django project name - playlist, django app name - plydjango
+6. Here, django project name - playlist, django app name - plydjango
 
-5. To run the server: 
+7. To run the server: 
 
    Go to the directory where manage.py file is present and run the following command:
    ```
