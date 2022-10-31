@@ -1,8 +1,8 @@
 # playlist-django
         
-> A Django backend for playlist application
+## A Django backend for playlist application
   
-Steps to run Django Backend:
+**Steps to run Django Backend:**
 
 1. Create a folder and run the following command: 
    ```
@@ -40,7 +40,7 @@ Link to the site: [Import a Django project from git](https://stackoverflow.com/q
    ```
    python manange.py runserver
    ```
-> Frontend using react-js: [playlist-react](https://github.com/IITBombayWeb/playlist-react) -
+## Frontend using react-js: [playlist-react](https://github.com/IITBombayWeb/playlist-react) -
 
   **Note**: 
         Some changes has been done in the source code provided in [playlist-react](https://github.com/IITBombayWeb/playlist-react), the changed files has 
